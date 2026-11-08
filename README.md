@@ -4,6 +4,9 @@ JobLens is a web platform designed to help job seekers identify potential warnin
 
 The platform highlights suspicious details and provides verification suggestions rather than making the final decision about whether a job is genuine or fake.
 
+## Live Demo
+https://sanjanaoney.github.io/job_lens/
+
 ## Features
 
 Job advertisement analysis with warning signs and explanations
@@ -38,5 +41,5 @@ Automatic content extraction from job posting links
 
 Improved scam detection and verification features
 
-## Live Demo
+
 
